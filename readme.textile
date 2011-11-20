@@ -1,0 +1,22 @@
+h1. Shrink-it
+
+h2. About
+
+*Shrink-it* is a simple php link shortener that you can host in your own server.
+
+h2. Licence
+
+Shrink-it is distributed under "GNU GPL v3":http://www.gnu.org/licenses/gpl-3.0.txt
+
+h2. Features (TODO)
+
+* Url shortening (SRSLY??)
+* "Walled garden":http://en.wikipedia.org/wiki/Walled_garden_(technology)#Access_control
+* Statics (hits, referals)
+* Autopublish in social networks
+* Bookmarlet, browser integration
+* REST API
+
+h2. Features (Implemented)
+
+Nothing yet

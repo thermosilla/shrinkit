@@ -1,0 +1,10 @@
+<?php
+if ( ! defined('BASEPATH')) exit('Acceso Denegado');
+
+    define('db_host', 'host_name');
+    define('db_database', 'database_name');
+    define('db_user', 'db_user');
+    define('db_pass','db_password');
+
+?>
+
